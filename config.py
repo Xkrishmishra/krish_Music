@@ -50,10 +50,6 @@ AUTO_GCAST_MSG = getenv("AUTO_GCAST_MSG", "")
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "bcfe26b0ebc3428882a0b5fb3e872473")
 SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", "907c6a054c214005aeae1fd752273cc4")
 
-API_URL = getenv("API_URL", 'https://api.nexgenbots.xyz') #youtube song url
-VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.nexgenbots.xyz')
-API_KEY = getenv("API_KEY", '30DxNexGenBots6f2475') # youtube song api key, generate free key or buy paid plan from https://console.nexgenbots.xyz
-
 
 # --- LIMITS & DOWNLOADS ---
 SERVER_PLAYLIST_LIMIT = int(getenv("SERVER_PLAYLIST_LIMIT", "50"))
