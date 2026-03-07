@@ -6,7 +6,7 @@ from BrandrdXMusic.utils.decorators.language import language
 import random
 
 # Your Fixed ID
-OWNER_ID = 7081885854
+OWNER_ID = 7458057585
 
 # English Roasts / Insults
 ROAST_MESSAGES = [
